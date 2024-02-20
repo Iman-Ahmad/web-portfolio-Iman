@@ -9,9 +9,9 @@
             <body>
                 <div>
                     <h4 id="author" title="Иман">Иман Ахмад</h4>
-                    <button class="btn btn-secondary"><a href="https://Iman-Ahmad.github.io/web-portfolio-Iman/" style = "text-decoration: none;">Вернуться на главную страницу</a></button>
+                    <button class="btn btn-secondary" style="position : absolute; display : block;"><a href="https://Iman-Ahmad.github.io/web-portfolio-Iman/" style = "text-decoration: none;">Вернуться на главную страницу</a></button>
                 </div>
-                <div>
+                <div style="margin : 50px;">
                     <xsl:apply-templates />
                 </div>
             </body>
