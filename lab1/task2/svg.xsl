@@ -4,12 +4,11 @@
             <head>
                 <meta charset="utf-8"/>
                 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-                <link rel="icon" type="image/x-icon" href="/web-portfolio/favicon.ico"/>
                 <title>SVG Picture</title>
             </head>
             <body>
                 <h4 id="author" title="Иман">Иман Ахмад</h4>
-                <p><a href="/web-portfolio">Вернуться на главную страницу</a></p>
+                <button class="btn btn-secondary"><a href="/web-portfolio-Iman">Вернуться на главную страницу</a></button>
                 <xsl:apply-templates />
             </body>
         </html>
