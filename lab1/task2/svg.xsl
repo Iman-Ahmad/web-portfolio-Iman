@@ -8,7 +8,7 @@
             </head>
             <body>
                 <div>
-                    <h4 id="author" title="Иман" style = "position: absolute; left: 20px; top: 20px; width: 100%;">Иман Ахмад</h4>
+                    <h4 id="author" title="Иман">Иман Ахмад</h4>
                     <button class="btn btn-secondary"><a href="https://Iman-Ahmad.github.io/web-portfolio-Iman/" style = "text-decoration: none;">Вернуться на главную страницу</a></button>
                 </div>
                 <div>
