@@ -8,8 +8,8 @@
             </head>
             <body>
                 <h4 id="author" title="Иман">Иман Ахмад</h4>
-                <button class="btn btn-secondary" style = "text-decoration: none;">
-                    <a href="https://Iman-Ahmad.github.io/web-portfolio-Iman/">Вернуться на главную страницу</a>
+                <button class="btn btn-secondary">
+                    <a style = "text-decoration: none;" href="https://Iman-Ahmad.github.io/web-portfolio-Iman/">Вернуться на главную страницу</a>
                 </button>
                 <div style="width: min-content">
                     <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
