@@ -8,9 +8,9 @@
             </head>
             <body>
                 <h4 id="author" title="Иман">Иман Ахмад</h4>
-                <p>
+                <button class="btn btn-secondary">
                     <a href="/web-portfolio-Iman">Вернуться на главную страницу</a>
-                </p>
+                </button>
                 <div style="width: min-content">
                     <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
                         <mstyle displaystyle="true">
