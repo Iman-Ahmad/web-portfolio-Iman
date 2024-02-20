@@ -7,7 +7,7 @@
                 <title>SVG Picture</title>
             </head>
             <body>
-                <div style="position: relative;">
+                <div>
                     <h4 id="author" title="Иман" style = "position: absolute; left: 20px; top: 20px; width: 100%;">Иман Ахмад</h4>
                     <button class="btn btn-secondary" style = "position: relative;"><a href="https://Iman-Ahmad.github.io/web-portfolio-Iman/" style = "text-decoration: none;">Вернуться на главную страницу</a></button>
                 </div>
