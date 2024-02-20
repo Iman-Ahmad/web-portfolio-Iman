@@ -4,13 +4,12 @@
             <head>
                 <meta charset="utf-8"/>
                 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-                <link rel="icon" type="image/x-icon" href="/web-portfolio/favicon.ico"/>
                 <title>Math</title>
             </head>
             <body>
                 <h4 id="author" title="Иман">Иман Ахмад</h4>
                 <p>
-                    <a href="/web-portfolio">Вернуться на главную страницу</a>
+                    <a href="/web-portfolio-Iman">Вернуться на главную страницу</a>
                 </p>
                 <div style="width: min-content">
                     <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
