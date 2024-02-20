@@ -8,7 +8,7 @@
             </head>
             <body>
                 <h4 id="author" title="Иман">Иман Ахмад</h4>
-                <button class="btn btn-secondary" style="position: absolute; top: 20px; right: 20px;"><a href="https://Iman-Ahmad.github.io/web-portfolio-Iman/" style = "text-decoration: none;">Вернуться на главную страницу</a></button>
+                <button class="btn btn-secondary" style="position: absolute; top: 20px; left: 20px;"><a href="https://Iman-Ahmad.github.io/web-portfolio-Iman/" style = "text-decoration: none;">Вернуться на главную страницу</a></button>
                 <xsl:apply-templates />
             </body>
         </html>
