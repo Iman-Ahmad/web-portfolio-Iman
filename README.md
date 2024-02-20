@@ -1,5 +1,5 @@
 # Web portfolio
-Web-portfolio for ITMO University master course "Web-technologies | 2024"
+My Web-portfolio
 
 Portfolio link:
 https://Iman-Ahmad.github.io/web-portfolio/
